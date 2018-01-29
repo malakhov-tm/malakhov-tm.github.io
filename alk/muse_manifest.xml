@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alk.ru" resolutions="1x" timestamp="1517258422811">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alk.ru" resolutions="1x" timestamp="1517258594097">
   <folder name="css">
     <file name="site_global.css" crc="397393007"/>
     <file name="master_a-master.css" crc="3862013854" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3808492375" ref="index"/>
-    <file name="index.css" crc="4254102043" ref="index"/>
-    <file name="nomq_index.css" crc="3799571708" ref="index"/>
+    <file name="index.css" crc="192932554" ref="index"/>
+    <file name="nomq_index.css" crc="4293318679" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="4119092551"/>
@@ -189,5 +189,5 @@
     <file name="u10794.png" crc="4120339849" ref="index"/>
     <file name="u1079-r4.png" crc="4123071496" ref="index"/>
   </folder>
-  <file name="index.html" crc="3957012124" seo="true" mt="1517258402700" redirect="true"/>
+  <file name="index.html" crc="3896558702" seo="true" mt="1517258575044" redirect="true"/>
 </manifest>
