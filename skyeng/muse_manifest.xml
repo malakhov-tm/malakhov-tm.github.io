@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skyeng.ru" resolutions="1x" timestamp="1517257183754">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skyeng.ru" resolutions="1x" timestamp="1517257951098">
   <folder name="css">
     <file name="site_global.css" crc="384377044"/>
-    <file name="index.css" crc="13400689" ref="index"/>
-    <file name="nomq_index.css" crc="3823815044" ref="index"/>
+    <file name="index.css" crc="4225865557" ref="index"/>
+    <file name="nomq_index.css" crc="349363884" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="museosanscyrl-500.woff" crc="427418235"/>
@@ -100,5 +100,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4041691799" seo="true" mt="1517257157841" redirect="true"/>
+  <file name="index.html" crc="3992253889" seo="true" mt="1517257909447" redirect="true"/>
 </manifest>
