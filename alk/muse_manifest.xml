@@ -1,25 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skyeng.ru" resolutions="1x" timestamp="1517257557045">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alk.ru" resolutions="1x" timestamp="1517258422811">
   <folder name="css">
-    <file name="site_global.css" crc="384377044"/>
-    <file name="index.css" crc="13400689" ref="index"/>
-    <file name="nomq_index.css" crc="3823815044" ref="index"/>
+    <file name="site_global.css" crc="397393007"/>
+    <file name="master_a-master.css" crc="3862013854" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3808492375" ref="index"/>
+    <file name="index.css" crc="4254102043" ref="index"/>
+    <file name="nomq_index.css" crc="3799571708" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="museosanscyrl-500.woff" crc="427418235"/>
-    <file name="museosanscyrl-500.eot" crc="4098049931"/>
-    <file name="museosanscyrl-500.svg" crc="440066275"/>
-    <file name="museosanscyrl-300.woff" crc="3942259165"/>
-    <file name="museosanscyrl-300.eot" crc="3834028192"/>
-    <file name="museosanscyrl-300.svg" crc="508922106"/>
     <file name="montserrat-bold.woff" crc="4119092551"/>
     <file name="montserrat-bold.eot" crc="186350765"/>
     <file name="montserrat-bold.svg" crc="465511547"/>
-    <file name="museosanscyrl-900.woff" crc="205297370"/>
-    <file name="museosanscyrl-900.eot" crc="459841282"/>
-    <file name="museosanscyrl-900.svg" crc="421324779"/>
-  </folder>
-  <folder name="assets">
-    <file name="youtube.jpg" crc="93917794" seo="true" mt="1510087115000"/>
+    <file name="montserrat-light.woff" crc="362190089"/>
+    <file name="montserrat-light.eot" crc="129370891"/>
+    <file name="montserrat-light.svg" crc="287825358"/>
+    <file name="montserrat-regular.woff" crc="455171595"/>
+    <file name="montserrat-regular.eot" crc="4009417673"/>
+    <file name="montserrat-regular.svg" crc="358208015"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,13 +23,11 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u1157.php" crc="3774522568" ref="index"/>
-    <file name="form-u12767.php" crc="80901942" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
@@ -41,64 +35,159 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="bg.jpg" crc="296959571" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="united-kingdom.svg" crc="3782371471" ref="index"/>
-    <file name="united-kingdom_poster_u129.png" crc="4278749667" ref="index"/>
-    <file name="logo-white.svg" crc="399739604" ref="index"/>
-    <file name="logo-white_poster_u262.png" crc="3759937272" ref="index"/>
-    <file name="technology-(1).svg" crc="3914804533" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="technology (1)_poster_.png" crc="4138306781" ref="index"/>
-    <file name="line_white-03.svg" crc="451982212" ref="index"/>
-    <file name="line_white-03_poster_u224.png" crc="4258776521" ref="index"/>
-    <file name="bg_woman.jpg" crc="3788888132" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nikolaeva.png" crc="140890134" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="arrow-02.svg" crc="4141814564" ref="index"/>
-    <file name="arrow-02_poster_u11904.png" crc="121045358" ref="index"/>
-    <file name="arrow-04.svg" crc="4158795398" ref="index"/>
-    <file name="arrow-04_poster_u11920.png" crc="239548594" ref="index"/>
-    <file name="circles-06.svg" crc="426381891" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="circles-06_poster_.png" crc="201668373" ref="index"/>
-    <file name="bg_deal-u4997-fr.jpg" crc="251941954" ref="index"/>
-    <file name="005-united-kingdom.svg" crc="94862995" ref="index"/>
-    <file name="005-united-kingdom_poster_u5043.png" crc="4083150413" ref="index"/>
-    <file name="004-ethernet.svg" crc="253236894" ref="index"/>
-    <file name="004-ethernet_poster_u5054.png" crc="177032394" ref="index"/>
-    <file name="003-professor.svg" crc="195980999" ref="index"/>
-    <file name="003-professor_poster_u5065.png" crc="503328112" ref="index"/>
-    <file name="002-people.svg" crc="321471626" ref="index"/>
-    <file name="002-people_poster_u5084.png" crc="485707899" ref="index"/>
-    <file name="001-profits.svg" crc="210176970" ref="index"/>
-    <file name="001-profits_poster_u5095.png" crc="360951500" ref="index"/>
-    <file name="bg_register-u5455-fr.jpg" crc="379342470" ref="index"/>
-    <file name="hand_ruble-02-02.svg" crc="4005462149" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hand_ruble-02-02_poster_.png" crc="4045707913" ref="index"/>
-    <file name="menu.svg" crc="386557886" ref="index"/>
-    <file name="menu_poster_u13855.png" crc="3958630153" ref="index"/>
-    <file name="bg_deal.jpg" crc="3768873821" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg_register.jpg" crc="4161686074" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="user.svg" crc="3946887883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="user_poster_.png" crc="207486209" ref="index"/>
+    <file name="cart.svg" crc="3773847528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cart_poster_.png" crc="416901592" ref="index"/>
+    <file name="logo.svg" crc="281243268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="428947547" ref="index"/>
+    <file name="bg_alk.jpg" crc="187859539" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="280978318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="3897789641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="3848728416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="bg2.jpg" crc="333964441" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jewel.svg" crc="3993780137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jewel_poster_.png" crc="4111242888" ref="index"/>
+    <file name="technology.svg" crc="3780338196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="technology_poster_.png" crc="3805651771" ref="index"/>
+    <file name="refresh.svg" crc="4062927647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="refresh_poster_.png" crc="402075484" ref="index"/>
+    <file name="layer 1.jpg" crc="3912553274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 2.jpg" crc="3853663528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 3.jpg" crc="4030718405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg3.jpg" crc="130488477" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 7.png" crc="23779213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1081.png" crc="254395730" ref="index"/>
+    <file name="u1081-r.png" crc="293031724" ref="index"/>
+    <file name="u1083.png" crc="453060235" ref="index"/>
+    <file name="u1083-r.png" crc="3883817633" ref="index"/>
+    <file name="u1085.png" crc="529826725" ref="index"/>
+    <file name="u1085-r.png" crc="4066501304" ref="index"/>
+    <file name="u1087.png" crc="4062932573" ref="index"/>
+    <file name="u1087-r.png" crc="4267854865" ref="index"/>
+    <file name="u1079.png" crc="3796244729" ref="index"/>
+    <file name="u1079-r.png" crc="3770440775" ref="index"/>
+    <file name="logo_greyscale.png" crc="3871674826" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="223916278" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10812.png" crc="4182741000" ref="index"/>
+    <file name="u1081-r2.png" crc="4192162873" ref="index"/>
+    <file name="u10832.png" crc="3982546150" ref="index"/>
+    <file name="u1083-r2.png" crc="195230912" ref="index"/>
+    <file name="u10852.png" crc="4126266922" ref="index"/>
+    <file name="u1085-r2.png" crc="3827021684" ref="index"/>
+    <file name="u10872.png" crc="87182284" ref="index"/>
+    <file name="u1087-r2.png" crc="3995721081" ref="index"/>
+    <file name="u10792.png" crc="4246255826" ref="index"/>
+    <file name="u1079-r2.png" crc="263542963" ref="index"/>
+    <file name="menu.svg" crc="386557886" ref="index"/>
+    <file name="menu_poster_u33912.png" crc="3958630153" ref="index"/>
+    <file name="u10813.png" crc="4182741000" ref="index"/>
+    <file name="u1081-r3.png" crc="4192162873" ref="index"/>
+    <file name="u10833.png" crc="3982546150" ref="index"/>
+    <file name="u1083-r3.png" crc="195230912" ref="index"/>
+    <file name="u10853.png" crc="4126266922" ref="index"/>
+    <file name="u1085-r3.png" crc="3827021684" ref="index"/>
+    <file name="u10873.png" crc="87182284" ref="index"/>
+    <file name="u1087-r3.png" crc="3995721081" ref="index"/>
+    <file name="u10793.png" crc="4246255826" ref="index"/>
+    <file name="u1079-r3.png" crc="263542963" ref="index"/>
+    <file name="layer 7270x187.png" crc="438164679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10814.png" crc="336756191" ref="index"/>
+    <file name="u1081-r4.png" crc="4038936270" ref="index"/>
+    <file name="u10834.png" crc="221140911" ref="index"/>
+    <file name="u1083-r4.png" crc="176693639" ref="index"/>
+    <file name="u10854.png" crc="514691701" ref="index"/>
+    <file name="u1085-r4.png" crc="3761914777" ref="index"/>
+    <file name="u10874.png" crc="304091836" ref="index"/>
+    <file name="u1087-r4.png" crc="3851593839" ref="index"/>
+    <file name="u10794.png" crc="4120339849" ref="index"/>
+    <file name="u1079-r4.png" crc="4123071496" ref="index"/>
   </folder>
-  <file name="index.html" crc="411567000" seo="true" mt="1517257535009" redirect="true"/>
+  <file name="index.html" crc="3957012124" seo="true" mt="1517258402700" redirect="true"/>
 </manifest>
