@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://skyeng.ru/index.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skyeng.ru/images/technology-(1).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skyeng.ru/images/circles-06.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skyeng.ru/images/hand_ruble-02-02.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skyeng.ru/assets/youtube.jpg</loc>
+    <lastmod>2017-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
