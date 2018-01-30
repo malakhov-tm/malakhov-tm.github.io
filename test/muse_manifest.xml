@@ -1,0 +1,382 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mlkhv.ru" resolutions="1x" timestamp="1517272630844">
+  <folder name="css">
+    <file name="site_global.css" crc="4022983561"/>
+    <file name="master_a-master.css" crc="167251300" ref="веб-сайт-для-пкп-альк:лендинг-пейдж-для-skyeng:обо-мне:шевелю-фастфуд--векторный-бургер:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3785605102" ref="веб-сайт-для-пкп-альк:лендинг-пейдж-для-skyeng:обо-мне:шевелю-фастфуд--векторный-бургер:index"/>
+    <file name="master_b-master.css" crc="3798679175" ref="контакты"/>
+    <file name="nomq_preview_master_b-master.css" crc="231676787" ref="контакты"/>
+    <file name="___-____-___-___-____.css" crc="4518029" ref="веб-сайт-для-пкп-альк"/>
+    <file name="nomq____-____-___-___-____.css" crc="267951590" ref="веб-сайт-для-пкп-альк"/>
+    <file name="_______-_____-___-skyeng.css" crc="513087393" ref="лендинг-пейдж-для-skyeng"/>
+    <file name="nomq________-_____-___-skyeng.css" crc="295818695" ref="лендинг-пейдж-для-skyeng"/>
+    <file name="___-___.css" crc="218493019" ref="обо-мне"/>
+    <file name="nomq____-___.css" crc="157201564" ref="обо-мне"/>
+    <file name="________.css" crc="4085304837" ref="контакты"/>
+    <file name="nomq_________.css" crc="4062629939" ref="контакты"/>
+    <file name="______-_______--_________-______.css" crc="38399255" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="nomq_______-_______--_________-______.css" crc="199975944" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="index.css" crc="4023605148" ref="index"/>
+    <file name="nomq_index.css" crc="3770372848" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-light.woff" crc="362190089"/>
+    <file name="montserrat-light.eot" crc="129370891"/>
+    <file name="montserrat-light.svg" crc="287825358"/>
+    <file name="montserrat-regular.woff" crc="455171595"/>
+    <file name="montserrat-regular.eot" crc="4009417673"/>
+    <file name="montserrat-regular.svg" crc="358208015"/>
+    <file name="montserrat-bold.woff" crc="4119092551"/>
+    <file name="montserrat-bold.eot" crc="186350765"/>
+    <file name="montserrat-bold.svg" crc="465511547"/>
+  </folder>
+  <folder name="assets">
+    <file name="bg.mp4" crc="4067403586" seo="true" mt="1516372356000"/>
+    <file name="bg_presentation.jpg" crc="357631671" seo="true" mt="1516888950000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="museutils.js" crc="3803043152" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="whatinput.js" crc="86476730" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="museconfig.js" crc="380897831" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="webpro.js" crc="242022427" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="require.js" crc="4157109226" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты"/>
+    <file name="logo-(2).svg" crc="315416931" seo="true" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="logo (2)_poster_.png" crc="158501887" ref="index"/>
+    <file name="arrow-05.svg" crc="4052063042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow-05_poster_.png" crc="487955545" ref="index"/>
+    <file name="skyeng-preview.jpg" crc="3773423295" ref="index:лендинг-пейдж-для-skyeng">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+    </file>
+    <file name="burger-preview.jpg" crc="306487861" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alk_previw.jpg" crc="497853699" ref="index:веб-сайт-для-пкп-альк">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+    </file>
+    <file name="006-viber.svg" crc="168881482" seo="true" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="006-viber_poster_.png" crc="16332893" ref="index"/>
+    <file name="logo-greyscale.svg" crc="388301229" ref="index:контакты"/>
+    <file name="logo-greyscale_poster_u9366.png" crc="329608383" ref="index:контакты"/>
+    <file name="logo (2)_poster_u9374.png" crc="158501887" ref="index:контакты"/>
+    <file name="003-yandex.svg" crc="3860152902" seo="true" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="003-yandex_poster_.png" crc="126775701" ref="index"/>
+    <file name="001-vk.svg" crc="146517475" seo="true" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="001-vk_poster_.png" crc="177367863" ref="index"/>
+    <file name="004-telegram.svg" crc="4035730964" seo="true" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="004-telegram_poster_.png" crc="3930821980" ref="index"/>
+    <file name="002-skype.svg" crc="4258969860" seo="true" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="002-skype_poster_.png" crc="3809753510" ref="index"/>
+    <file name="005-instagram.svg" crc="270523009" seo="true" ref="index:обо-мне:веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="005-instagram_poster_.png" crc="382006781" ref="index"/>
+    <file name="skyeng-preview-u3568-fr.jpg" crc="3887249946" ref="index"/>
+    <file name="burger-preview-u4432-fr.jpg" crc="522255046" ref="index"/>
+    <file name="alk_previw-u4424-fr.jpg" crc="4268956801" ref="index"/>
+    <file name="menu.svg" crc="386557886" ref="index:контакты"/>
+    <file name="menu_poster_u5824.png" crc="3958630153" ref="index:контакты"/>
+    <file name="menu_hover.svg" crc="4086071619" ref="index:контакты"/>
+    <file name="menu_hover_poster_u5901.png" crc="4002324353" ref="index:контакты"/>
+    <file name="close-04.svg" crc="3961348758" ref="index:контакты"/>
+    <file name="close-04_poster_u5911.png" crc="14858385" ref="index:контакты"/>
+    <file name="skyeng-preview-u3568-fr2.jpg" crc="4086245212" ref="index"/>
+    <file name="burger-preview-u4432-fr2.jpg" crc="3926369524" ref="index"/>
+    <file name="alk_previw-u4424-fr2.jpg" crc="278685739" ref="index"/>
+    <file name="bg_contacts.jpg" crc="177598152" ref="обо-мне">
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="avatar.jpg" crc="4241740935" ref="обо-мне">
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+      <caption webpage="обо-мне" alt=""/>
+    </file>
+    <file name="bg_contacts-u6796-fr.jpg" crc="4104837220" ref="обо-мне"/>
+    <file name="bg_presentation.jpg" crc="3988086934" ref="веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng:контакты">
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+    </file>
+    <file name="mockup.jpg" crc="504492581" ref="веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng">
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+    </file>
+    <file name="mockup-u14841-fr.jpg" crc="4173538030" ref="веб-сайт-для-пкп-альк:лендинг-пейдж-для-skyeng"/>
+    <file name="mockup-u16175-fr.jpg" crc="4037270989" ref="веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng"/>
+    <file name="breakpoints.jpg" crc="443664040" seo="true" ref="веб-сайт-для-пкп-альк:лендинг-пейдж-для-skyeng">
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+    </file>
+    <file name="screencast_opt.gif" crc="368936452" seo="true" ref="веб-сайт-для-пкп-альк:лендинг-пейдж-для-skyeng">
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+    </file>
+    <file name="proof.jpg" crc="490859725" seo="true" ref="веб-сайт-для-пкп-альк:лендинг-пейдж-для-skyeng">
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+    </file>
+    <file name="bg_presentation-u10412-fr.jpg" crc="4124751524" ref="веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng"/>
+    <file name="mockup-u14841-fr2.jpg" crc="389942974" ref="веб-сайт-для-пкп-альк:лендинг-пейдж-для-skyeng"/>
+    <file name="mockup-u16175-fr2.jpg" crc="3998719529" ref="веб-сайт-для-пкп-альк:шевелю-фастфуд--векторный-бургер:лендинг-пейдж-для-skyeng"/>
+    <file name="pallete-u19882.png" crc="3905778938" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="mockup-u19905-fr.jpg" crc="87422063" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="layers.jpg" crc="4097738553" seo="true" ref="шевелю-фастфуд--векторный-бургер">
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+    </file>
+    <file name="burger-animation.gif" crc="99734864" seo="true" ref="шевелю-фастфуд--векторный-бургер">
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+    </file>
+    <file name="ae.gif" crc="453158138" seo="true" ref="шевелю-фастфуд--векторный-бургер">
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+      <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
+    </file>
+    <file name="pallete-u198822.png" crc="3905778938" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="pallete-u198823.png" crc="3905778938" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="mockup-u21694-fr.jpg" crc="4236213317" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="pallete-u198824.png" crc="3938312501" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="mockup-u19905-fr2.jpg" crc="3847559164" ref="шевелю-фастфуд--векторный-бургер"/>
+    <file name="bg_presentation-u24953-fr.jpg" crc="4725451" ref="контакты"/>
+    <file name="bg_presentation-u24953-fr2.jpg" crc="464793473" ref="контакты"/>
+  </folder>
+  <file name="index.html" crc="84249904" seo="true" mt="1517272591077" redirect="true"/>
+  <file name="обо-мне.html" crc="4236966381" seo="true" mt="1517272227210" redirect="true"/>
+  <file name="веб-сайт-для-пкп-альк.html" crc="503372333" seo="true" mt="1517272227210" redirect="true"/>
+  <file name="шевелю-фастфуд--векторный-бургер.html" crc="515198627" seo="true" mt="1517272227210" redirect="true"/>
+  <file name="лендинг-пейдж-для-skyeng.html" crc="4086281372" seo="true" mt="1517272227210" redirect="true"/>
+  <file name="контакты.html" crc="465962850" seo="true" mt="1517271913514" redirect="true"/>
+</manifest>
