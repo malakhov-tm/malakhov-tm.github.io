@@ -31,7 +31,70 @@
     </image:image>
   </url>
   <url>
+    <loc>http://mlkhv.ru/about.html</loc>
+    <lastmod>2018-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/logo-(2).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/006-viber.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/003-yandex.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/001-vk.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/004-telegram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/002-skype.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/005-instagram.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://mlkhv.ru/alk-lp.html</loc>
+    <lastmod>2018-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/logo-(2).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/006-viber.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/003-yandex.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/001-vk.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/004-telegram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/002-skype.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/005-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/breakpoints.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/screencast_opt.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/proof.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mlkhv.ru/skyeng-lp.html</loc>
     <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -103,69 +166,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mlkhv.ru/about.html</loc>
-    <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/logo-(2).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/006-viber.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/003-yandex.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/001-vk.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/004-telegram.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/002-skype.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/005-instagram.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://mlkhv.ru/skyeng-lp.html</loc>
-    <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/logo-(2).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/006-viber.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/003-yandex.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/001-vk.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/004-telegram.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/002-skype.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/005-instagram.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/breakpoints.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/screencast_opt.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/proof.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://mlkhv.ru/contacts.html</loc>
     <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -201,6 +201,18 @@
   <url>
     <loc>http://mlkhv.ru/assets/bg.mp4</loc>
     <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mlkhv.ru/assets/bg.webm</loc>
+    <lastmod>2018-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mlkhv.ru/assets/bg.ogg</loc>
+    <lastmod>2018-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
