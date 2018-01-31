@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mlkhv.ru" resolutions="1x" timestamp="1517428524221">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mlkhv.ru" resolutions="1x" timestamp="1517428610763">
   <folder name="css">
     <file name="site_global.css" crc="4022983561"/>
     <file name="master_a-master.css" crc="171095111" ref="index:alk-lp:skyeng-lp:about:fastfood-animation:alk-lp-copy"/>
     <file name="nomq_preview_master_a-master.css" crc="4254629761" ref="index:alk-lp:skyeng-lp:about:fastfood-animation:alk-lp-copy"/>
     <file name="master_b-master.css" crc="332244779" ref="contacts"/>
     <file name="nomq_preview_master_b-master.css" crc="3885030934" ref="contacts"/>
-    <file name="index.css" crc="56085791" ref="index"/>
+    <file name="index.css" crc="4082629938" ref="index"/>
     <file name="nomq_index.css" crc="4288456295" ref="index"/>
     <file name="alk-lp.css" crc="4167575185" ref="alk-lp"/>
     <file name="nomq_alk-lp.css" crc="4021040652" ref="alk-lp"/>
@@ -53,26 +53,30 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:alk-lp-copy"/>
     <file name="logo-(2).svg" crc="315416931" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:alk-lp-copy">
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -85,22 +89,18 @@
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="logo (2)_poster_.png" crc="158501887" ref="index"/>
     <file name="arrow-05.svg" crc="4052063042" seo="true" ref="index">
@@ -139,26 +139,30 @@
       <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="006-viber.svg" crc="168881482" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:alk-lp-copy">
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -171,48 +175,48 @@
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="006-viber_poster_.png" crc="16332893" ref="index"/>
     <file name="logo-greyscale.svg" crc="388301229" ref="index:contacts"/>
     <file name="logo-greyscale_poster_u9366.png" crc="329608383" ref="index:contacts"/>
     <file name="logo (2)_poster_u9374.png" crc="158501887" ref="index:contacts"/>
     <file name="003-yandex.svg" crc="3860152902" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:alk-lp-copy">
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -225,45 +229,45 @@
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="003-yandex_poster_.png" crc="126775701" ref="index"/>
     <file name="001-vk.svg" crc="146517475" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:alk-lp-copy">
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -276,45 +280,45 @@
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="001-vk_poster_.png" crc="177367863" ref="index"/>
     <file name="004-telegram.svg" crc="4035730964" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:alk-lp-copy">
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -327,45 +331,45 @@
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="004-telegram_poster_.png" crc="3930821980" ref="index"/>
     <file name="002-skype.svg" crc="4258969860" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:alk-lp-copy">
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -378,45 +382,45 @@
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="002-skype_poster_.png" crc="3809753510" ref="index"/>
     <file name="005-instagram.svg" crc="270523009" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:alk-lp-copy">
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
       <caption webpage="обо-мне" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="alk-lp-copy" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -429,22 +433,18 @@
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
-      <caption webpage="alk-lp-copy" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="005-instagram_poster_.png" crc="382006781" ref="index"/>
     <file name="skyeng-preview-u3568-fr.jpg" crc="3887249946" ref="index"/>
@@ -469,15 +469,15 @@
       <caption webpage="обо-мне" alt=""/>
     </file>
     <file name="bg_presentation.jpg" crc="84474368" ref="index">
-      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
+      <caption webpage="контакты" alt=""/>
       <caption webpage="contacts" alt=""/>
       <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="веб-сайт-для-пкп-альк" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="шевелю-фастфуд--векторный-бургер" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
-      <caption webpage="контакты" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="mockup.jpg" crc="504492581" ref="alk-lp:fastfood-animation:skyeng-lp:alk-lp-copy">
       <caption webpage="лендинг-пейдж-для-skyeng" alt=""/>
@@ -653,7 +653,7 @@
     <file name="menu_poster_u41114.png" crc="171230455" ref="index:contacts"/>
     <file name="bg_presentation-u33998-fr.jpg" crc="4014158536" ref="index"/>
   </folder>
-  <file name="index.html" crc="4142823711" seo="true" mt="1517428441896" redirect="true"/>
+  <file name="index.html" crc="4032091492" seo="true" mt="1517428594732" redirect="true"/>
   <file name="about.html" crc="4127549840" seo="true" mt="1517426768552" redirect="true"/>
   <file name="alk-lp.html" crc="3796865213" seo="true" mt="1517426890491" redirect="true"/>
   <file name="fastfood-animation.html" crc="4131940912" seo="true" mt="1517426890490" redirect="true"/>
