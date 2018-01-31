@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mlkhv.ru/index.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -31,35 +31,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mlkhv.ru/about.html</loc>
-    <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/logo-(2).svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/006-viber.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/003-yandex.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/001-vk.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/004-telegram.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/002-skype.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mlkhv.ru/images/005-instagram.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://mlkhv.ru/alk-lp.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -95,7 +68,7 @@
   </url>
   <url>
     <loc>http://mlkhv.ru/fastfood-animation.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -131,7 +104,34 @@
   </url>
   <url>
     <loc>http://mlkhv.ru/contacts.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/logo-(2).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/006-viber.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/003-yandex.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/001-vk.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/004-telegram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/002-skype.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mlkhv.ru/images/005-instagram.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mlkhv.ru/about.html</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>http://mlkhv.ru/skyeng-lp.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -188,7 +188,7 @@
   </url>
   <url>
     <loc>http://mlkhv.ru/alk-lp-copy.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -228,12 +228,6 @@
   <url>
     <loc>http://mlkhv.ru/assets/bg.ogg</loc>
     <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mlkhv.ru/assets/bg_presentation.jpg</loc>
-    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
