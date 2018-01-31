@@ -1,0 +1,161 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sportblend.ru" resolutions="1x" timestamp="1517424678562">
+  <folder name="css">
+    <file name="site_global.css" crc="338517407"/>
+    <file name="master_a-master.css" crc="358220691" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3970065755" ref="index"/>
+    <file name="index.css" crc="395824406" ref="index"/>
+    <file name="nomq_index.css" crc="466074277" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="roboto-regular.woff" crc="489890854"/>
+    <file name="roboto-regular.eot" crc="113853847"/>
+    <file name="roboto-regular.svg" crc="4110568330"/>
+    <file name="roboto-lightitalic.woff" crc="4027323847"/>
+    <file name="roboto-lightitalic.eot" crc="483369432"/>
+    <file name="roboto-lightitalic.svg" crc="3836261257"/>
+    <file name="roboto-light.woff" crc="385924649"/>
+    <file name="roboto-light.eot" crc="88417714"/>
+    <file name="roboto-light.svg" crc="4231924826"/>
+    <file name="roboto-bold.woff" crc="397015587"/>
+    <file name="roboto-bold.eot" crc="479564158"/>
+    <file name="roboto-bold.svg" crc="3780766406"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1471.php" crc="4281290852" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="001-telephone.svg" crc="4119648287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001-telephone_poster_.png" crc="283691752" ref="index"/>
+    <file name="003-placeholder.svg" crc="513135321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003-placeholder_poster_.png" crc="43360270" ref="index"/>
+    <file name="002-mail.svg" crc="4119188803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002-mail_poster_.png" crc="486018674" ref="index"/>
+    <file name="logo.png" crc="4207082234" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu.svg" crc="144879406" ref="index"/>
+    <file name="menu_poster_u11235.png" crc="3774624458" ref="index"/>
+    <file name="menu_hover.svg" crc="3761010728" ref="index"/>
+    <file name="menu_hover_poster_u5326.png" crc="160291072" ref="index"/>
+    <file name="bg_1.jpg" crc="4280011649" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic.jpg" crc="205677078" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="play-button-(1).svg" crc="4207379351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="play-button (1)_poster_.png" crc="94648167" ref="index"/>
+    <file name="pic6.jpg" crc="4235315245" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fe55e0e2b7f44999830c0b58de326c35.jpg" crc="509407907" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic3.jpg" crc="4201824030" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic4.jpg" crc="144048246" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow-02-01.svg" crc="196512567" ref="index"/>
+    <file name="arrow-02-01_poster_u2686.png" crc="4114580712" ref="index"/>
+    <file name="arrow-02-02.svg" crc="110327555" ref="index"/>
+    <file name="arrow-02-02_poster_u2694.png" crc="312556697" ref="index"/>
+    <file name="pic7.jpg" crc="147503861" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="324611316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="4149327482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="252604890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social.png" crc="4052499772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-u2412-fr.jpg" crc="3865343190" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3818362705" seo="true" mt="1517420745774" redirect="true"/>
+</manifest>

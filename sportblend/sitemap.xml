@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sportblend.ru/index.html</loc>
+    <lastmod>2018-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sportblend.ru/images/001-telephone.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sportblend.ru/images/003-placeholder.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sportblend.ru/images/002-mail.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sportblend.ru/images/play-button-(1).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sportblend.ru/images/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sportblend.ru/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sportblend.ru/images/3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sportblend.ru/images/social.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
