@@ -1,0 +1,99 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="st.ru" resolutions="1x" timestamp="1517923095923">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4258810828" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="399846639" ref="index"/>
+    <file name="nomq_index.css" crc="4041847700" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="opensans-regular.woff" crc="3781272602"/>
+    <file name="opensans-regular.eot" crc="295799188"/>
+    <file name="opensans-regular.svg" crc="3813804839"/>
+    <file name="opensans-extrabold.woff" crc="421819148"/>
+    <file name="opensans-extrabold.eot" crc="142472320"/>
+    <file name="opensans-extrabold.svg" crc="221695860"/>
+    <file name="opensans-italic.woff" crc="184747447"/>
+    <file name="opensans-italic.eot" crc="406132797"/>
+    <file name="opensans-italic.svg" crc="4002192769"/>
+    <file name="lora-regular.woff" crc="514740938"/>
+    <file name="lora-regular.eot" crc="3910236903"/>
+    <file name="lora-regular.svg" crc="154212151"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u168.php" crc="232895432" ref="index"/>
+    <file name="form-u1119.php" crc="4229405539" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg2.jpg" crc="375729135" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="logo_school-trading.svg" crc="4281631701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_school-trading_poster_.png" crc="43846953" ref="index"/>
+    <file name="telephone.svg" crc="3796368206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telephone_poster_.png" crc="48795779" ref="index"/>
+    <file name="textured_paper-u885-fr.png" crc="3963070696" ref="index"/>
+    <file name="layer 1.png" crc="225860847" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 2.png" crc="488243154" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 3.png" crc="356120446" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 4.png" crc="16078556" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 5.png" crc="4036051419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 6.png" crc="165778017" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 7.png" crc="4031896130" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laptopcoffee.jpg" crc="493821595" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2-u142-fr.jpg" crc="4198764173" ref="index"/>
+  </folder>
+  <file name="index.html" crc="307539462" seo="true" mt="1517923010070" redirect="true"/>
+</manifest>
