@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="st.ru" resolutions="1x" timestamp="1517923939934">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="st.ru" resolutions="1x" timestamp="1517924525271">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4258810828" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3986993296" ref="index"/>
-    <file name="nomq_index.css" crc="8687413" ref="index"/>
+    <file name="index.css" crc="247142929" ref="index"/>
+    <file name="nomq_index.css" crc="4053982186" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="opensans-regular.woff" crc="3781272602"/>
@@ -95,5 +95,5 @@
     </file>
     <file name="bg2-u142-fr.jpg" crc="4198764173" ref="index"/>
   </folder>
-  <file name="index.html" crc="520535349" seo="true" mt="1517923922470" redirect="true"/>
+  <file name="index.html" crc="253560688" seo="true" mt="1517924346281" redirect="true"/>
 </manifest>
