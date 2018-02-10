@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pizza.ru" resolutions="1x" timestamp="1518280637227">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pizza.ru" resolutions="1x" timestamp="1518281023523">
   <folder name="css">
     <file name="site_global.css" crc="236195634"/>
-    <file name="index.css" crc="231782686" ref="index"/>
-    <file name="nomq_index.css" crc="3791907054" ref="index"/>
+    <file name="index.css" crc="140949962" ref="index"/>
+    <file name="nomq_index.css" crc="3970293320" ref="index"/>
     <file name="master_a-master.css" crc="143218777" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3899569907" ref="index"/>
   </folder>
@@ -256,6 +256,9 @@
     <file name="2-2-u12008-r-fr4.jpg" crc="4188176791" ref="index"/>
     <file name="3-1-u13486-fr4.jpg" crc="460957322" ref="index"/>
     <file name="3-2-u13486-r-fr4.jpg" crc="3870601013" ref="index"/>
+    <file name="map.jpg" crc="4152759453" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="24912086" seo="true" mt="1518280625601" redirect="true"/>
+  <file name="index.html" crc="4239435999" seo="true" mt="1518280957562" redirect="true"/>
 </manifest>
