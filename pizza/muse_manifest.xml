@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pizza.ru" resolutions="1x" timestamp="1518280474713">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pizza.ru" resolutions="1x" timestamp="1518280637227">
   <folder name="css">
     <file name="site_global.css" crc="236195634"/>
-    <file name="index.css" crc="3996799504" ref="index"/>
-    <file name="nomq_index.css" crc="4011278519" ref="index"/>
+    <file name="index.css" crc="231782686" ref="index"/>
+    <file name="nomq_index.css" crc="3791907054" ref="index"/>
     <file name="master_a-master.css" crc="143218777" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3899569907" ref="index"/>
   </folder>
@@ -257,5 +257,5 @@
     <file name="3-1-u13486-fr4.jpg" crc="460957322" ref="index"/>
     <file name="3-2-u13486-r-fr4.jpg" crc="3870601013" ref="index"/>
   </folder>
-  <file name="index.html" crc="392018629" seo="true" mt="1518280409055" redirect="true"/>
+  <file name="index.html" crc="24912086" seo="true" mt="1518280625601" redirect="true"/>
 </manifest>
