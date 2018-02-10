@@ -1,0 +1,261 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pizza.ru" resolutions="1x" timestamp="1518280474713">
+  <folder name="css">
+    <file name="site_global.css" crc="236195634"/>
+    <file name="index.css" crc="3996799504" ref="index"/>
+    <file name="nomq_index.css" crc="4011278519" ref="index"/>
+    <file name="master_a-master.css" crc="143218777" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3899569907" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="roboto-light.woff" crc="385924649"/>
+    <file name="roboto-light.eot" crc="88417714"/>
+    <file name="roboto-light.svg" crc="4231924826"/>
+    <file name="roboto-bold.woff" crc="397015587"/>
+    <file name="roboto-bold.eot" crc="479564158"/>
+    <file name="roboto-bold.svg" crc="3780766406"/>
+    <file name="proximanova-light.woff" crc="520336140"/>
+    <file name="proximanova-light.eot" crc="4281406121"/>
+    <file name="proximanova-light.svg" crc="3805216407"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo-02.eps" crc="125585075" seo="true" mt="1518085463000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="header-image-min.jpg" crc="3996381140" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peppers.png" crc="4017875672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="module_4_tomatoes.png" crc="3935090141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pizza-u616-fr.jpg" crc="231682558" ref="index"/>
+    <file name="pizza.svg" crc="286249306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pizza_poster_.png" crc="250999532" ref="index"/>
+    <file name="chef-mark.png" crc="277983842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="basil-infused.png" crc="14488503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pizza.jpg" crc="4148222850" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-1.jpg" crc="3997284796" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-2.jpg" crc="3910937356" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-1.jpg" crc="254544029" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-2.jpg" crc="58745735" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-1.jpg" crc="460640051" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-2.jpg" crc="151142014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saasd.jpg" crc="231019281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line.svg" crc="348705282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line_poster_.png" crc="4009325973" ref="index"/>
+    <file name="2834329main_image.jpg" crc="422991853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="herbs.png" crc="383768065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chilies.png" crc="420940677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg3.jpg" crc="169654645" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f6ac20467057720c32d14de2833d53a7.jpg" crc="108223785" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12485e3aa9e6935a6ed1162cb00d7a4f.jpg" crc="432681714" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b24d92ef039806690813bf06f1db1b91.jpg" crc="289262618" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-1-u11857-fr.jpg" crc="4265457740" ref="index"/>
+    <file name="1-2-u11857-r-fr.jpg" crc="4210450631" ref="index"/>
+    <file name="2-1-u12008-fr.jpg" crc="212571598" ref="index"/>
+    <file name="2-2-u12008-r-fr.jpg" crc="4256865187" ref="index"/>
+    <file name="3-1-u13486-fr.jpg" crc="501402308" ref="index"/>
+    <file name="3-2-u13486-r-fr.jpg" crc="3854204278" ref="index"/>
+    <file name="pizza-u5435-fr.jpg" crc="3819744578" ref="index"/>
+    <file name="herbs342x190.png" crc="4210421970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pizza-u616-fr2.jpg" crc="56290400" ref="index"/>
+    <file name="1-1-u11857-fr2.jpg" crc="495254531" ref="index"/>
+    <file name="1-2-u11857-r-fr2.jpg" crc="472472939" ref="index"/>
+    <file name="2-1-u12008-fr2.jpg" crc="191432264" ref="index"/>
+    <file name="2-2-u12008-r-fr2.jpg" crc="525929655" ref="index"/>
+    <file name="3-1-u13486-fr2.jpg" crc="110370796" ref="index"/>
+    <file name="3-2-u13486-r-fr2.jpg" crc="4005643751" ref="index"/>
+    <file name="1-1-u11857-fr3.jpg" crc="3941007480" ref="index"/>
+    <file name="1-2-u11857-r-fr3.jpg" crc="4076234662" ref="index"/>
+    <file name="2-1-u12008-fr3.jpg" crc="301109552" ref="index"/>
+    <file name="2-2-u12008-r-fr3.jpg" crc="360845624" ref="index"/>
+    <file name="3-1-u13486-fr3.jpg" crc="245444002" ref="index"/>
+    <file name="3-2-u13486-r-fr3.jpg" crc="3883429250" ref="index"/>
+    <file name="module_4_tomatoes175x216.png" crc="3769740242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="herbs241x134.png" crc="54791385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peppers352x337.png" crc="35279670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pizza-u616-fr3.jpg" crc="3818954078" ref="index"/>
+    <file name="pizza-u5435-fr2.jpg" crc="266892316" ref="index"/>
+    <file name="saasd290x201.jpg" crc="165601816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pizza-u5971-fr.jpg" crc="275819179" ref="index"/>
+    <file name="2834329main_image290x246.jpg" crc="3868956927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pizza-u616-fr4.jpg" crc="3943813136" ref="index"/>
+    <file name="logo-03.svg" crc="177601594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-03_poster_.png" crc="310711971" ref="index"/>
+    <file name="telephone.svg" crc="3796368206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telephone_poster_.png" crc="48795779" ref="index"/>
+    <file name="logo-02.svg" crc="507601941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-02_poster_.png" crc="4050015840" ref="index"/>
+    <file name="menu.svg" crc="4035031190" ref="index"/>
+    <file name="menu_poster_u43187.png" crc="3953176408" ref="index"/>
+    <file name="1-1-u11857-fr4.jpg" crc="3942833356" ref="index"/>
+    <file name="1-2-u11857-r-fr4.jpg" crc="170871514" ref="index"/>
+    <file name="2-1-u12008-fr4.jpg" crc="90633470" ref="index"/>
+    <file name="2-2-u12008-r-fr4.jpg" crc="4188176791" ref="index"/>
+    <file name="3-1-u13486-fr4.jpg" crc="460957322" ref="index"/>
+    <file name="3-2-u13486-r-fr4.jpg" crc="3870601013" ref="index"/>
+  </folder>
+  <file name="index.html" crc="392018629" seo="true" mt="1518280409055" redirect="true"/>
+</manifest>
