@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webinar-st.ru" resolutions="1x" timestamp="1518610356151">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webinar-st.ru" resolutions="1x" timestamp="1518637746457">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="328826168" ref="index"/>
+    <file name="master_a-master.css" crc="458986974" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4099847478" ref="index"/>
-    <file name="index.css" crc="90246522" ref="index"/>
-    <file name="nomq_index.css" crc="4037259266" ref="index"/>
+    <file name="index.css" crc="346331595" ref="index"/>
+    <file name="nomq_index.css" crc="439678155" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="pfdintextcondpro-light.woff" crc="4132247278"/>
@@ -61,19 +61,19 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-u103-fr.jpg" crc="82184825" ref="index"/>
-    <file name="tumanova-crop-u431.png" crc="3792414979" seo="true" ref="index">
+    <file name="tumanova-crop-u431.png" crc="3815831606" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-u103-fr2.jpg" crc="488215182" ref="index"/>
-    <file name="tumanova-crop-u4312.png" crc="3792414979" seo="true" ref="index">
+    <file name="tumanova-crop-u4312.png" crc="3815831606" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-u103-fr3.jpg" crc="4231319461" ref="index"/>
-    <file name="tumanova-crop-u4313.png" crc="91840862" seo="true" ref="index">
+    <file name="tumanova-crop-u4313.png" crc="108298041" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-u103-fr4.jpg" crc="3939839010" ref="index"/>
-    <file name="tumanova-crop-u4314.png" crc="91840862" seo="true" ref="index">
+    <file name="tumanova-crop-u4314.png" crc="108298041" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tumanova282x347.png" crc="4189199852" seo="true" ref="index">
@@ -83,5 +83,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3929705162" seo="true" mt="1518610340396" redirect="true"/>
+  <file name="index.html" crc="3774801180" seo="true" mt="1518637713058" redirect="true"/>
 </manifest>
