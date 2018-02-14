@@ -1,0 +1,87 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webinar-st.ru" resolutions="1x" timestamp="1518610356151">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="328826168" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4099847478" ref="index"/>
+    <file name="index.css" crc="90246522" ref="index"/>
+    <file name="nomq_index.css" crc="4037259266" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="pfdintextcondpro-light.woff" crc="4132247278"/>
+    <file name="pfdintextcondpro-light.eot" crc="291702381"/>
+    <file name="pfdintextcondpro-light.svg" crc="3878417691"/>
+    <file name="pfdintextcondpro-lightitalic.woff" crc="240216876"/>
+    <file name="pfdintextcondpro-lightitalic.eot" crc="452955069"/>
+    <file name="pfdintextcondpro-lightitalic.svg" crc="219958929"/>
+    <file name="pfdintextcondpro-medium.woff" crc="4288364898"/>
+    <file name="pfdintextcondpro-medium.eot" crc="3883052256"/>
+    <file name="pfdintextcondpro-medium.svg" crc="3814950150"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u111.php" crc="54285030" ref="index"/>
+    <file name="form-u547.php" crc="134516528" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="456286689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg.jpg" crc="132272136" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="туманова.jpg" crc="3876333847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-u103-fr.jpg" crc="82184825" ref="index"/>
+    <file name="tumanova-crop-u431.png" crc="3792414979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-u103-fr2.jpg" crc="488215182" ref="index"/>
+    <file name="tumanova-crop-u4312.png" crc="3792414979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-u103-fr3.jpg" crc="4231319461" ref="index"/>
+    <file name="tumanova-crop-u4313.png" crc="91840862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-u103-fr4.jpg" crc="3939839010" ref="index"/>
+    <file name="tumanova-crop-u4314.png" crc="91840862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumanova282x347.png" crc="4189199852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumanova.png" crc="3984667882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3929705162" seo="true" mt="1518610340396" redirect="true"/>
+</manifest>
