@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mlkhv.ru" resolutions="1x" timestamp="1518638977449">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mlkhv.ru" resolutions="1x" timestamp="1518644216277">
   <folder name="css">
     <file name="site_global.css" crc="4022983561"/>
-    <file name="master_a-master.css" crc="4252963503" ref="index:about:contacts"/>
-    <file name="nomq_preview_master_a-master.css" crc="109722708" ref="index:about:contacts"/>
+    <file name="master_a-master.css" crc="429617211" ref="index:about:contacts"/>
+    <file name="nomq_preview_master_a-master.css" crc="482130038" ref="index:about:contacts"/>
     <file name="master_b-master.css" crc="4015769125" ref="sportblend-lp:pizza-lp:skyeng-lp-copy:skyeng-lp:book-ico:webinar-st:fastfood-animation-copy:alk-lp:fastfood-animation"/>
     <file name="nomq_preview_master_b-master.css" crc="3937776811" ref="sportblend-lp:pizza-lp:skyeng-lp-copy:skyeng-lp:book-ico:webinar-st:fastfood-animation-copy:alk-lp:fastfood-animation"/>
     <file name="sportblend-lp.css" crc="4232189233" ref="sportblend-lp"/>
     <file name="nomq_sportblend-lp.css" crc="8747099" ref="sportblend-lp"/>
     <file name="pizza-lp.css" crc="4258590600" ref="pizza-lp"/>
     <file name="nomq_pizza-lp.css" crc="4120902103" ref="pizza-lp"/>
-    <file name="index.css" crc="3815768212" ref="index"/>
-    <file name="nomq_index.css" crc="58975963" ref="index"/>
-    <file name="about.css" crc="15821820" ref="about"/>
-    <file name="nomq_about.css" crc="158319576" ref="about"/>
+    <file name="index.css" crc="4226834687" ref="index"/>
+    <file name="nomq_index.css" crc="455813229" ref="index"/>
+    <file name="about.css" crc="3916869604" ref="about"/>
+    <file name="nomq_about.css" crc="225758036" ref="about"/>
     <file name="skyeng-lp-copy.css" crc="4000725624" ref="skyeng-lp-copy"/>
     <file name="nomq_skyeng-lp-copy.css" crc="211978824" ref="skyeng-lp-copy"/>
     <file name="skyeng-lp.css" crc="3864390916" ref="skyeng-lp"/>
@@ -21,8 +21,8 @@
     <file name="nomq_book-ico.css" crc="370166844" ref="book-ico"/>
     <file name="webinar-st.css" crc="241746334" ref="webinar-st"/>
     <file name="nomq_webinar-st.css" crc="10579453" ref="webinar-st"/>
-    <file name="contacts.css" crc="434339447" ref="contacts"/>
-    <file name="nomq_contacts.css" crc="4152496101" ref="contacts"/>
+    <file name="contacts.css" crc="217619143" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="64301882" ref="contacts"/>
     <file name="fastfood-animation-copy.css" crc="178735528" ref="fastfood-animation-copy"/>
     <file name="nomq_fastfood-animation-copy.css" crc="3979293986" ref="fastfood-animation-copy"/>
     <file name="alk-lp.css" crc="4021947410" ref="alk-lp"/>
@@ -67,9 +67,9 @@
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
@@ -87,9 +87,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
@@ -115,12 +115,12 @@
     <file name="pizza-preview.jpg" crc="4096462601" ref="index:alk-lp:pizza-lp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
     </file>
     <file name="skyeng-preview.jpg" crc="3773423295" ref="index:alk-lp:skyeng-lp">
       <caption webpage="index" alt=""/>
@@ -135,12 +135,12 @@
     <file name="sportblend-preview.jpg" crc="3858047575" ref="index:alk-lp:sportblend-lp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="burger-preview.jpg" crc="306487861" ref="index:alk-lp">
       <caption webpage="index" alt=""/>
@@ -191,9 +191,9 @@
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
@@ -211,9 +211,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
@@ -240,9 +240,9 @@
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
@@ -260,9 +260,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
@@ -286,9 +286,9 @@
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
@@ -306,9 +306,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
@@ -332,9 +332,9 @@
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
@@ -352,9 +352,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
@@ -378,9 +378,9 @@
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
@@ -398,9 +398,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
@@ -424,9 +424,9 @@
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
@@ -444,9 +444,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
@@ -654,12 +654,12 @@
     </file>
     <file name="портфолио--тимофей-малахов-favicon.ico" crc="235340342" ref="index"/>
   </folder>
-  <file name="index.html" crc="10452527" seo="true" mt="1518638934108" redirect="true"/>
-  <file name="about.html" crc="4116215480" seo="true" mt="1518638934108" redirect="true"/>
+  <file name="index.html" crc="476968333" seo="true" mt="1518644199699" redirect="true"/>
+  <file name="about.html" crc="63686173" seo="true" mt="1518644199699" redirect="true"/>
   <file name="alk-lp.html" crc="4025592360" seo="true" mt="1518638948988" redirect="true"/>
   <file name="fastfood-animation.html" crc="183649024" seo="true" mt="1518638948988" redirect="true"/>
   <file name="skyeng-lp.html" crc="4178648960" seo="true" mt="1518638948988" redirect="true"/>
-  <file name="contacts.html" crc="3780199516" seo="true" mt="1518638934108" redirect="true"/>
+  <file name="contacts.html" crc="4263888907" seo="true" mt="1518644199699" redirect="true"/>
   <file name="book-ico.html" crc="4220882452" seo="true" mt="1518638948988" redirect="true"/>
   <file name="sportblend-lp.html" crc="3787592296" seo="true" mt="1518638948988" redirect="true"/>
   <file name="fastfood-animation-copy.html" crc="109541438" seo="true" mt="1518638948988" redirect="true"/>
