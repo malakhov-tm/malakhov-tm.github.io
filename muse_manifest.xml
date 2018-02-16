@@ -1,34 +1,34 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mlkhv.ru" resolutions="1x" timestamp="1518644216277">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mlkhv.ru" resolutions="1x" timestamp="1518794853789">
   <folder name="css">
     <file name="site_global.css" crc="4022983561"/>
-    <file name="master_a-master.css" crc="429617211" ref="index:about:contacts"/>
-    <file name="nomq_preview_master_a-master.css" crc="482130038" ref="index:about:contacts"/>
-    <file name="master_b-master.css" crc="4015769125" ref="sportblend-lp:pizza-lp:skyeng-lp-copy:skyeng-lp:book-ico:webinar-st:fastfood-animation-copy:alk-lp:fastfood-animation"/>
-    <file name="nomq_preview_master_b-master.css" crc="3937776811" ref="sportblend-lp:pizza-lp:skyeng-lp-copy:skyeng-lp:book-ico:webinar-st:fastfood-animation-copy:alk-lp:fastfood-animation"/>
-    <file name="sportblend-lp.css" crc="4232189233" ref="sportblend-lp"/>
-    <file name="nomq_sportblend-lp.css" crc="8747099" ref="sportblend-lp"/>
-    <file name="pizza-lp.css" crc="4258590600" ref="pizza-lp"/>
-    <file name="nomq_pizza-lp.css" crc="4120902103" ref="pizza-lp"/>
-    <file name="index.css" crc="4226834687" ref="index"/>
-    <file name="nomq_index.css" crc="455813229" ref="index"/>
+    <file name="master_a-master.css" crc="506083128" ref="index:about:contacts"/>
+    <file name="nomq_preview_master_a-master.css" crc="154805446" ref="index:about:contacts"/>
+    <file name="master_b-master.css" crc="4086857949" ref="sportblend-lp:pizza-lp:skyeng-lp-copy:skyeng-lp:book-ico:webinar-st:alk-lp:fastfood-animation:cosmic-animation"/>
+    <file name="nomq_preview_master_b-master.css" crc="4027959307" ref="sportblend-lp:pizza-lp:skyeng-lp-copy:skyeng-lp:book-ico:webinar-st:alk-lp:fastfood-animation:cosmic-animation"/>
+    <file name="sportblend-lp.css" crc="3872154161" ref="sportblend-lp"/>
+    <file name="nomq_sportblend-lp.css" crc="273286696" ref="sportblend-lp"/>
+    <file name="pizza-lp.css" crc="498911292" ref="pizza-lp"/>
+    <file name="nomq_pizza-lp.css" crc="194017554" ref="pizza-lp"/>
+    <file name="index.css" crc="4080477592" ref="index"/>
+    <file name="nomq_index.css" crc="4206724882" ref="index"/>
     <file name="about.css" crc="3916869604" ref="about"/>
     <file name="nomq_about.css" crc="225758036" ref="about"/>
-    <file name="skyeng-lp-copy.css" crc="4000725624" ref="skyeng-lp-copy"/>
-    <file name="nomq_skyeng-lp-copy.css" crc="211978824" ref="skyeng-lp-copy"/>
-    <file name="skyeng-lp.css" crc="3864390916" ref="skyeng-lp"/>
-    <file name="nomq_skyeng-lp.css" crc="222648597" ref="skyeng-lp"/>
-    <file name="book-ico.css" crc="302843634" ref="book-ico"/>
-    <file name="nomq_book-ico.css" crc="370166844" ref="book-ico"/>
-    <file name="webinar-st.css" crc="241746334" ref="webinar-st"/>
-    <file name="nomq_webinar-st.css" crc="10579453" ref="webinar-st"/>
+    <file name="skyeng-lp-copy.css" crc="3901789609" ref="skyeng-lp-copy"/>
+    <file name="nomq_skyeng-lp-copy.css" crc="10510983" ref="skyeng-lp-copy"/>
+    <file name="skyeng-lp.css" crc="4023017708" ref="skyeng-lp"/>
+    <file name="nomq_skyeng-lp.css" crc="3964002399" ref="skyeng-lp"/>
+    <file name="book-ico.css" crc="4089797516" ref="book-ico"/>
+    <file name="nomq_book-ico.css" crc="270325683" ref="book-ico"/>
+    <file name="webinar-st.css" crc="31186237" ref="webinar-st"/>
+    <file name="nomq_webinar-st.css" crc="3868673865" ref="webinar-st"/>
     <file name="contacts.css" crc="217619143" ref="contacts"/>
     <file name="nomq_contacts.css" crc="64301882" ref="contacts"/>
-    <file name="fastfood-animation-copy.css" crc="178735528" ref="fastfood-animation-copy"/>
-    <file name="nomq_fastfood-animation-copy.css" crc="3979293986" ref="fastfood-animation-copy"/>
-    <file name="alk-lp.css" crc="4021947410" ref="alk-lp"/>
-    <file name="nomq_alk-lp.css" crc="338686278" ref="alk-lp"/>
-    <file name="fastfood-animation.css" crc="414258034" ref="fastfood-animation"/>
-    <file name="nomq_fastfood-animation.css" crc="3890904105" ref="fastfood-animation"/>
+    <file name="alk-lp.css" crc="396553393" ref="alk-lp"/>
+    <file name="nomq_alk-lp.css" crc="4106983788" ref="alk-lp"/>
+    <file name="fastfood-animation.css" crc="378122099" ref="fastfood-animation"/>
+    <file name="nomq_fastfood-animation.css" crc="4153586721" ref="fastfood-animation"/>
+    <file name="cosmic-animation.css" crc="4076001048" ref="cosmic-animation"/>
+    <file name="nomq_cosmic-animation.css" crc="4165819971" ref="cosmic-animation"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-light.woff" crc="362190089"/>
@@ -48,31 +48,22 @@
     <file name="малахов-тимофей---резюме.pdf" crc="4140016059" seo="true" mt="1517925189000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="webpro.js" crc="242022427" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="require.js" crc="4157109226" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="require.js" crc="4157109226" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
-    <file name="logo-(2).svg" crc="315416931" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st">
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
+    <file name="logo-(2).svg" crc="315416931" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation">
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
@@ -80,29 +71,41 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="logo (2)_poster_.png" crc="158501887" ref="index"/>
     <file name="arrow-05.svg" crc="4052063042" seo="true" ref="index">
@@ -115,12 +118,12 @@
     <file name="pizza-preview.jpg" crc="4096462601" ref="index:alk-lp:pizza-lp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
       <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="skyeng-preview.jpg" crc="3773423295" ref="index:alk-lp:skyeng-lp">
       <caption webpage="index" alt=""/>
@@ -135,12 +138,12 @@
     <file name="sportblend-preview.jpg" crc="3858047575" ref="index:alk-lp:sportblend-lp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
       <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
     </file>
     <file name="burger-preview.jpg" crc="306487861" ref="index:alk-lp">
       <caption webpage="index" alt=""/>
@@ -187,16 +190,7 @@
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
     </file>
-    <file name="006-viber.svg" crc="168881482" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st">
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
+    <file name="006-viber.svg" crc="168881482" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation">
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
@@ -204,48 +198,51 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="006-viber_poster_.png" crc="16332893" ref="index"/>
     <file name="logo-greyscale.svg" crc="388301229" ref="index:alk-lp"/>
     <file name="logo-greyscale_poster_u9366.png" crc="329608383" ref="index:alk-lp"/>
     <file name="logo (2)_poster_u9374.png" crc="158501887" ref="index:alk-lp"/>
-    <file name="003-yandex.svg" crc="3860152902" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st">
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
+    <file name="003-yandex.svg" crc="3860152902" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation">
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
@@ -253,45 +250,48 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="003-yandex_poster_.png" crc="126775701" ref="index"/>
-    <file name="001-vk.svg" crc="146517475" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st">
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
+    <file name="001-vk.svg" crc="146517475" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation">
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
@@ -299,45 +299,48 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="001-vk_poster_.png" crc="177367863" ref="index"/>
-    <file name="004-telegram.svg" crc="4035730964" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st">
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
+    <file name="004-telegram.svg" crc="4035730964" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation">
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
@@ -345,45 +348,48 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="004-telegram_poster_.png" crc="3930821980" ref="index"/>
-    <file name="002-skype.svg" crc="4258969860" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st">
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
+    <file name="002-skype.svg" crc="4258969860" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation">
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
@@ -391,45 +397,48 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="002-skype_poster_.png" crc="3809753510" ref="index"/>
-    <file name="005-instagram.svg" crc="270523009" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st">
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="fastfood-animation" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
-      <caption webpage="pizza-lp" alt=""/>
+    <file name="005-instagram.svg" crc="270523009" seo="true" ref="index:about:alk-lp:fastfood-animation:skyeng-lp:contacts:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation">
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
@@ -437,33 +446,45 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
-      <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
       <caption webpage="webinar-st" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="pizza-lp" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
+      <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="005-instagram_poster_.png" crc="382006781" ref="index"/>
     <file name="bg_presentation.jpg" crc="84474368" ref="index">
@@ -493,7 +514,7 @@
     <file name="st-lp-preview-u17606-fr2.jpg" crc="4233927494" ref="index"/>
     <file name="bg_presentation-u33998-fr.jpg" crc="4014158536" ref="index"/>
     <file name="webinar-st-u17622-fr4.jpg" crc="380486140" ref="index"/>
-    <file name="bg_presentation-u6796-fr.jpg" crc="3835482754" ref="about:contacts:pizza-lp:alk-lp:fastfood-animation:skyeng-lp:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:webinar-st"/>
+    <file name="bg_presentation-u6796-fr.jpg" crc="3835482754" ref="about:contacts"/>
     <file name="avatar.jpg" crc="449261045" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -503,31 +524,34 @@
     <file name="bg_presentation-u6796-fr2.jpg" crc="218898095" ref="about"/>
     <file name="bg_presentation-u6796-fr3.jpg" crc="120960915" ref="about"/>
     <file name="bg_presentation-u6796-fr4.jpg" crc="318876311" ref="about"/>
-    <file name="mockup.jpg" crc="504492581" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy">
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="skyeng-lp-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="fastfood-animation-copy" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
-      <caption webpage="alk-lp" alt=""/>
+    <file name="mockup.jpg" crc="504492581" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:sportblend-lp:skyeng-lp-copy:cosmic-animation">
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
       <caption webpage="book-ico" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
-      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
+      <caption webpage="skyeng-lp-copy" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
       <caption webpage="fastfood-animation" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="alk-lp" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
+      <caption webpage="skyeng-lp" alt=""/>
       <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="sportblend-lp" alt=""/>
     </file>
     <file name="mockup-u14841-fr.jpg" crc="4173538030" ref="alk-lp"/>
-    <file name="mockup-u16175-fr.jpg" crc="4037270989" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:fastfood-animation-copy"/>
+    <file name="mockup-u16175-fr.jpg" crc="4037270989" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:cosmic-animation"/>
     <file name="breakpoints.jpg" crc="443664040" seo="true" ref="alk-lp">
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
@@ -551,9 +575,9 @@
       <caption webpage="alk-lp" alt=""/>
       <caption webpage="alk-lp" alt=""/>
     </file>
-    <file name="bg_presentation-u10412-fr.jpg" crc="138914414" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:sportblend-lp:fastfood-animation-copy:skyeng-lp-copy:pizza-lp:webinar-st"/>
+    <file name="bg_presentation-u10412-fr.jpg" crc="3835482754" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:sportblend-lp:skyeng-lp-copy:pizza-lp:webinar-st:cosmic-animation"/>
     <file name="mockup-u14841-fr2.jpg" crc="389942974" ref="alk-lp"/>
-    <file name="mockup-u16175-fr2.jpg" crc="3998719529" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:fastfood-animation-copy"/>
+    <file name="mockup-u16175-fr2.jpg" crc="3998719529" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:cosmic-animation"/>
     <file name="pallete-u19882.png" crc="3905778938" ref="fastfood-animation"/>
     <file name="mockup-u19905-fr.jpg" crc="87422063" ref="fastfood-animation"/>
     <file name="layers.jpg" crc="4097738553" seo="true" ref="fastfood-animation">
@@ -604,21 +628,30 @@
       <caption webpage="sportblend-lp" alt=""/>
       <caption webpage="sportblend-lp" alt=""/>
     </file>
-    <file name="space-pic.jpg" crc="4077225572" seo="true" ref="fastfood-animation-copy">
+    <file name="space-pic.jpg" crc="4077225572" seo="true" ref="cosmic-animation">
       <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
     </file>
-    <file name="mockup-u49221-fr.jpg" crc="13578703" ref="fastfood-animation-copy"/>
-    <file name="gif1.gif" crc="4263037387" seo="true" ref="fastfood-animation-copy">
+    <file name="mockup-u49221-fr.jpg" crc="13578703" ref="cosmic-animation"/>
+    <file name="gif1.gif" crc="4263037387" seo="true" ref="cosmic-animation">
       <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
     </file>
-    <file name="gif2.gif" crc="4053700161" seo="true" ref="fastfood-animation-copy">
+    <file name="gif2.gif" crc="4053700161" seo="true" ref="cosmic-animation">
       <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="fastfood-animation-copy" alt=""/>
       <caption webpage="fastfood-animation-copy" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
+      <caption webpage="cosmic-animation" alt=""/>
     </file>
     <file name="pic.jpg" crc="497657194" ref="skyeng-lp-copy">
       <caption webpage="skyeng-lp-copy" alt=""/>
@@ -653,17 +686,18 @@
       <caption webpage="webinar-st" alt=""/>
     </file>
     <file name="портфолио--тимофей-малахов-favicon.ico" crc="235340342" ref="index"/>
+    <file name="bg_presentation-u10412-fr2.jpg" crc="138914414" ref="alk-lp:fastfood-animation:skyeng-lp:book-ico:sportblend-lp:cosmic-animation:skyeng-lp-copy:pizza-lp:webinar-st"/>
   </folder>
-  <file name="index.html" crc="476968333" seo="true" mt="1518644199699" redirect="true"/>
+  <file name="index.html" crc="89398613" seo="true" mt="1518794825166" redirect="true"/>
   <file name="about.html" crc="63686173" seo="true" mt="1518644199699" redirect="true"/>
-  <file name="alk-lp.html" crc="4025592360" seo="true" mt="1518638948988" redirect="true"/>
-  <file name="fastfood-animation.html" crc="183649024" seo="true" mt="1518638948988" redirect="true"/>
-  <file name="skyeng-lp.html" crc="4178648960" seo="true" mt="1518638948988" redirect="true"/>
+  <file name="alk-lp.html" crc="3887042885" seo="true" mt="1518794825168" redirect="true"/>
+  <file name="fastfood-animation.html" crc="4170529414" seo="true" mt="1518794825168" redirect="true"/>
+  <file name="skyeng-lp.html" crc="3996941652" seo="true" mt="1518794825168" redirect="true"/>
   <file name="contacts.html" crc="4263888907" seo="true" mt="1518644199699" redirect="true"/>
-  <file name="book-ico.html" crc="4220882452" seo="true" mt="1518638948988" redirect="true"/>
-  <file name="sportblend-lp.html" crc="3787592296" seo="true" mt="1518638948988" redirect="true"/>
-  <file name="fastfood-animation-copy.html" crc="109541438" seo="true" mt="1518638948988" redirect="true"/>
-  <file name="skyeng-lp-copy.html" crc="245368910" seo="true" mt="1518638948988" redirect="true"/>
-  <file name="pizza-lp.html" crc="4077847983" seo="true" mt="1518638948988" redirect="true"/>
-  <file name="webinar-st.html" crc="4089303492" seo="true" mt="1518638948988" redirect="true"/>
+  <file name="book-ico.html" crc="4016374214" seo="true" mt="1518794825168" redirect="true"/>
+  <file name="sportblend-lp.html" crc="4198201682" seo="true" mt="1518794825168" redirect="true"/>
+  <file name="skyeng-lp-copy.html" crc="3962492843" seo="true" mt="1518794825168" redirect="true"/>
+  <file name="pizza-lp.html" crc="373374413" seo="true" mt="1518794825168" redirect="true"/>
+  <file name="webinar-st.html" crc="424903028" seo="true" mt="1518794825168" redirect="true"/>
+  <file name="cosmic-animation.html" crc="427768151" seo="true" mt="1518794825173" redirect="true"/>
 </manifest>
