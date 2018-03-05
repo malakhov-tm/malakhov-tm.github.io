@@ -1,0 +1,124 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="simpio.ru" resolutions="1x" timestamp="1520252181272">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4016765921" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="lato-bold.woff" crc="298352598"/>
+    <file name="lato-bold.eot" crc="213672668"/>
+    <file name="lato-bold.svg" crc="224603960"/>
+    <file name="lato-medium.woff" crc="3878555987"/>
+    <file name="lato-medium.eot" crc="28709086"/>
+    <file name="lato-medium.svg" crc="266860034"/>
+    <file name="sfuidisplay-medium.woff" crc="470832377"/>
+    <file name="sfuidisplay-medium.eot" crc="247453003"/>
+    <file name="sfuidisplay-medium.svg" crc="253301774"/>
+    <file name="sfuidisplay-light.woff" crc="4108776642"/>
+    <file name="sfuidisplay-light.eot" crc="3861186373"/>
+    <file name="sfuidisplay-light.svg" crc="3882379787"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="screenshot_1.png" crc="139016456" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-02.svg" crc="332317107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-02_poster_.png" crc="177654286" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="round.png" crc="51251636" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup---macbook-pro-(2017)--.png" crc="502756229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search-1.svg" crc="242594083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search-1_poster_.png" crc="347783676" ref="index"/>
+    <file name="devices.svg" crc="302451806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="devices_poster_.png" crc="3875258296" ref="index"/>
+    <file name="viral-marketing.svg" crc="108924307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viral-marketing_poster_.png" crc="3868593616" ref="index"/>
+    <file name="online-shop.svg" crc="4096682382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="online-shop_poster_.png" crc="4107685533" ref="index"/>
+    <file name="quality.svg" crc="3889173427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quality_poster_.png" crc="322183916" ref="index"/>
+    <file name="pay-per-click.svg" crc="3920077899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pay-per-click_poster_.png" crc="4044122023" ref="index"/>
+    <file name="line-04.svg" crc="4104096978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-04_poster_.png" crc="273928275" ref="index"/>
+    <file name="79.jpg" crc="253162918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="76.jpg" crc="3991455735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="41.jpg" crc="36088046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="63.jpg" crc="380946253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="83.jpg" crc="4259652567" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="78.jpg" crc="4273492051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3923139128" seo="true" mt="1520252111969" redirect="true"/>
+</manifest>
