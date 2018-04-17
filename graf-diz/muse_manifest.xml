@@ -1,0 +1,113 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ohshit.com" resolutions="1x" timestamp="1523932319092">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4054903218" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="proximanova-light.woff" crc="520336140"/>
+    <file name="proximanova-light.eot" crc="4281406121"/>
+    <file name="proximanova-light.svg" crc="3805216407"/>
+    <file name="proximanova-black.woff" crc="288743948"/>
+    <file name="proximanova-black.eot" crc="4105021830"/>
+    <file name="proximanova-black.svg" crc="4100705595"/>
+    <file name="museosanscyrl-300.woff" crc="3942259165"/>
+    <file name="museosanscyrl-300.eot" crc="3834028192"/>
+    <file name="museosanscyrl-300.svg" crc="508922106"/>
+  </folder>
+  <folder name="assets">
+    <file name="dialog-02.svgz" crc="303677819" seo="true" mt="1513354423000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1396.php" crc="231895983" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="180955783" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9-green-leaf-png.png" crc="4044831897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pngpix-com-kingfisher-bird-png-transparent-image.png" crc="56524716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-02.svg" crc="4241397348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-02_poster_.png" crc="4206895170" ref="index"/>
+    <file name="dialog-02.svg" crc="4262320991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dialog-02_poster_.png" crc="56394949" ref="index"/>
+    <file name="f2523693746fecb765cd89cc8fa3dae9.png" crc="3925857979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dora.gif" crc="3909555605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="giphy.gif" crc="349432180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="birds_png107-crop-u1142.png" crc="3849606073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_gr.jpg" crc="531625008" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="retail_mockup-crop-u1248.png" crc="3837500688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="giphy (1).gif" crc="46565694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="giphy (6).gif" crc="4022019851" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone-x---virgil-pana_trn.png" crc="4113887340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-stationery-premium-mockup-inter-size.jpg" crc="4216209219" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="giphy (7).gif" crc="24730208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="giphy-(4)2222.gif" crc="3963387387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_45.jpg" crc="4164866321" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="windingdesertedbluefish-max-1mb.gif" crc="152302914" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="45-crop-u1266.png" crc="4006357273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="workplace_mockup.jpg" crc="350426416" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="surface-studio-mockup-1.jpg" crc="481237360" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="giphy (1)2.gif" crc="4181040226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="giphy (2).gif" crc="282628647" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3774441256" seo="true" mt="1513701937138" redirect="true"/>
+</manifest>
